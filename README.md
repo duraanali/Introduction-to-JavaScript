@@ -4,6 +4,8 @@ The module is the afternoon assignment or task that students work through indepe
 
 ## JavaScript Foundations
 
+"WE MADE CHANGE LIVE IN LECTURE"
+
 ## Objectives
 
 - use let, const, var and demonstrate their differences.
