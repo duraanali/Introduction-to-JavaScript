@@ -6,12 +6,12 @@
 // 2. Write a conditional that returns true if `votingAge` is 18 or older; otherwise, return false.
 // 3. Log the result to the console.clear
 
-let votingAge = 16;
+let votingAge = 18;
 
-if (votingAge >= 18) {
-  console.log(true);
+if (votingAge => 18) {
+    console.log("YOU CAN VOTE!")
 } else {
-  console.log(false);
+    console.log("YOU CAN NOT VOTE!")
 }
 
 /*🏋️‍♂️ Task 2: Variable Value Swap 🔄 */
